@@ -45,7 +45,7 @@ li{list-style: none;text-decoration: none;}
 blockquote {border-left: 2px solid;padding: 10px 15px 10px 35px;margin: 25px 0;font-size: 18px;line-height: 28px;}
 blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
 .hidden{display: none;}
-section{padding: 7.5rem 0;}
+section{padding: 4.5rem 0;}
 .padding-top{padding-top: 7.5rem;}
 .padding-bottom{padding-bottom: 7.5rem;}
 .padding-half-top{padding-top: 90px;}
@@ -208,4 +208,24 @@ section{padding: 7.5rem 0;}
   }
   .footer-list li{
     margin-bottom: 10px;
+  }
+
+  .links_sec{
+    padding: 15px;
+    border-radius: 20px;
+  }
+  .links_sec h3{
+    font-size: 16px;
+    color: #8F939A;
+  }
+  .main_side_bar {
+    margin-top: 20px;
+  }
+  .main_side_bar ul {
+    padding-left: 0px;
+  }
+  .main_side_bar ul li {
+    color: #8F939A;
+    font-size: 20px;
+    margin-bottom: 30px;
   }
